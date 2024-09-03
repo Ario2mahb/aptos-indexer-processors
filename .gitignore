@@ -2,7 +2,7 @@ config.yaml
 cursor.txt
 build
 node_modules/
-
+97
 # Rust specific ignores
 # Please follow https://help.github.com/en/articles/ignoring-files to create a global
 # .gitignore file locally for IDE/Emacs/Vim generated files.
